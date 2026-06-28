@@ -25,6 +25,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
