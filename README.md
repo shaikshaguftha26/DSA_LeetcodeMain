@@ -27,6 +27,7 @@
 | [0009-palindrome-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0367-valid-perfect-square) |
 ## Enumeration
 |  |
 | ------- |
@@ -39,4 +40,5 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
