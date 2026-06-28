@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0016-3sum-closest](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
