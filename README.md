@@ -34,6 +34,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -48,6 +49,7 @@
 | [0525-contiguous-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -76,6 +78,7 @@
 | [0263-ugly-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0367-valid-perfect-square) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
 |  |
@@ -131,6 +134,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -142,6 +146,7 @@
 | [0724-find-pivot-index](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1732-find-the-highest-altitude) |
 ## Binary Indexed Tree
 |  |
