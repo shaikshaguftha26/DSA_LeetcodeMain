@@ -45,6 +45,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -118,6 +119,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Two Pointers
 |  |
 | ------- |
