@@ -19,6 +19,7 @@
 | [0414-third-maximum-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0169-majority-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
