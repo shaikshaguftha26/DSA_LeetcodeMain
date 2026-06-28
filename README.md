@@ -55,6 +55,7 @@
 | [0204-count-primes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0367-valid-perfect-square) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | ------- |
 | [0136-single-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
