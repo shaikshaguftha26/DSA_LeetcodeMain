@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0136-single-number) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
