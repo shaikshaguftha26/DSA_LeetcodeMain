@@ -32,6 +32,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -131,6 +132,7 @@
 | [0303-range-sum-query-immutable](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1732-find-the-highest-altitude) |
 ## Binary Indexed Tree
 |  |
 | ------- |
