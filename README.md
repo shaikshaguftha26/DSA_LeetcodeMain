@@ -26,6 +26,7 @@
 | [0493-reverse-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0881-boats-to-save-people) |
@@ -97,6 +98,7 @@
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
