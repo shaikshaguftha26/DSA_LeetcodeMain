@@ -25,6 +25,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0881-boats-to-save-people) |
+| [0918-maximum-sum-circular-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +145,15 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
