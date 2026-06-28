@@ -52,6 +52,7 @@
 | [0007-reverse-integer](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
