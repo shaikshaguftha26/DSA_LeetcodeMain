@@ -12,6 +12,7 @@
 | [0204-count-primes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -27,6 +28,7 @@
 | [0169-majority-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
