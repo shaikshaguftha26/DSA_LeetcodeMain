@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0152-maximum-product-subarray) |
@@ -93,6 +94,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
