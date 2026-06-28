@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
