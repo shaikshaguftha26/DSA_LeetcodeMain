@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0283-move-zeroes) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
@@ -99,4 +101,12 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0881-boats-to-save-people) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
