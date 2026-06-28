@@ -21,6 +21,7 @@
 | [0414-third-maximum-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0493-reverse-pairs) |
+| [0643-maximum-average-subarray-i](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
