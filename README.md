@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
