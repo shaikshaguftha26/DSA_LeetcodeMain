@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0493-reverse-pairs) |
@@ -114,6 +115,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0704-binary-search) |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
@@ -168,6 +171,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0724-find-pivot-index) |
@@ -195,6 +199,7 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
