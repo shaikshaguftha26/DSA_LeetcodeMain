@@ -92,6 +92,7 @@
 | [0263-ugly-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0415-add-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2235-add-two-integers) |
@@ -219,4 +220,12 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1095-find-in-mountain-array) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
