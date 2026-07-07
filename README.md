@@ -141,6 +141,7 @@
 | [0027-remove-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
@@ -229,6 +230,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0412-fizz-buzz) |
