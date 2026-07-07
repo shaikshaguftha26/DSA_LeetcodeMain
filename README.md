@@ -60,6 +60,7 @@
 | [0169-majority-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -224,6 +227,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0415-add-strings) |
 ## Simulation
