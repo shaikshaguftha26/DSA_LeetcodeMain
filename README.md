@@ -140,6 +140,7 @@
 | [0016-3sum-closest](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0125-valid-palindrome) |
@@ -233,6 +234,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0383-ransom-note) |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0292-nim-game) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
