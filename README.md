@@ -246,6 +246,7 @@
 | [0392-is-subsequence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0415-add-strings) |
+| [0796-rotate-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0917-reverse-only-letters) |
 ## Simulation
 |  |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
