@@ -60,6 +60,7 @@
 | [0001-two-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0387-first-unique-character-in-a-string) |
@@ -74,6 +75,7 @@
 | [0016-3sum-closest](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0881-boats-to-save-people) |
@@ -241,6 +243,7 @@
 | [0014-longest-common-prefix](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0387-first-unique-character-in-a-string) |
