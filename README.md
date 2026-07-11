@@ -64,6 +64,7 @@
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -77,6 +78,7 @@
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
@@ -160,6 +162,7 @@
 | ------- |
 | [0136-single-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
@@ -247,6 +250,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0415-add-strings) |
