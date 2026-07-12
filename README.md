@@ -68,6 +68,7 @@
 | [0525-contiguous-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
@@ -90,6 +91,7 @@
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | [0415-add-strings](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0917-reverse-only-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1189-maximum-number-of-balloons) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
 |  |
