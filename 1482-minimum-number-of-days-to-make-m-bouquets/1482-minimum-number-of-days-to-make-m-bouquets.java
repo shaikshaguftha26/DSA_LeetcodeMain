@@ -29,14 +29,20 @@ class Solution {
             if(arr[i]<=mid){
                 count++;
                 
-            }else{
-                bouquets+=(count/k);
-              count=0;
-            }
             
+            if(count==k){
+                 bouquets++;
+                 count=0;
+            }
+            }
+                else{
+               
+              count=0;
+            
+            } 
             
         }
-        bouquets+=(count/k);
+     
         return bouquets>=m;
         
     }
