@@ -50,6 +50,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -86,6 +87,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
@@ -145,6 +147,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
 | ------- |
