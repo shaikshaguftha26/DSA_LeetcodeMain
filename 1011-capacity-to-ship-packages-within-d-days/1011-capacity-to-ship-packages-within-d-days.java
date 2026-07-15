@@ -26,7 +26,7 @@ class Solution {
         int days=1;
         int currentWeight=0;
         for(int i=0;i<arr.length;i++){
-            if(arr[i]>capacity) return false;
+            // if(arr[i]>capacity) return false;
            
             if(currentWeight+arr[i]<=capacity){
                 currentWeight+=arr[i];
@@ -37,7 +37,6 @@ class Solution {
             }
 
         }
-        if(days<=D) return true;
-        else return false;
+        return days<=D;
     }
 }
