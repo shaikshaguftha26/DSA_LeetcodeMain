@@ -26,7 +26,8 @@ class Solution {
                 countCows++;
                 pastStall=arr[i];
             }
+            if(countCows==k) return true;
         }
-        return countCows==k;
-}
+        return false;
+    }
 }
