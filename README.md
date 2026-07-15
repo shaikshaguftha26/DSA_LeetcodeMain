@@ -110,6 +110,7 @@
 | [0367-valid-perfect-square](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0415-add-strings) |
+| [1025-divisor-game](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2235-add-two-integers) |
@@ -228,6 +229,7 @@
 | [0392-is-subsequence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
@@ -276,10 +278,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1025-divisor-game) |
 ## String Matching
 |  |
 | ------- |
