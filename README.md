@@ -55,6 +55,7 @@
 | [1732-find-the-highest-altitude](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1929-concatenation-of-array) |
 ## Brainteaser
 |  |
 | ------- |
