@@ -63,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
@@ -109,6 +110,7 @@
 | [0009-palindrome-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
@@ -165,6 +167,7 @@
 | [0031-next-permutation](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0392-is-subsequence) |
@@ -316,4 +319,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0451-sort-characters-by-frequency) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
