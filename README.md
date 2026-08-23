@@ -73,6 +73,7 @@
 | [0409-longest-palindrome](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0525-contiguous-array) |
+| [0771-jewels-and-stones](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1189-maximum-number-of-balloons) |
@@ -279,6 +280,7 @@
 | [0412-fizz-buzz](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1189-maximum-number-of-balloons) |
