@@ -79,6 +79,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2351-first-letter-to-appear-twice) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2549-count-distinct-numbers-on-board) |
 ## Sorting
 |  |
@@ -104,6 +105,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1189-maximum-number-of-balloons) |
+| [2351-first-letter-to-appear-twice](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0268-missing-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -285,6 +288,7 @@
 | [0917-reverse-only-letters](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1189-maximum-number-of-balloons) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2351-first-letter-to-appear-twice](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
