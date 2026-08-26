@@ -34,6 +34,7 @@
 | [0493-reverse-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0713-subarray-product-less-than-k) |
@@ -74,6 +75,7 @@
 | [0409-longest-palindrome](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0525-contiguous-array) |
+| [0575-distribute-candies](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0974-subarray-sums-divisible-by-k) |
