@@ -101,6 +101,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2235-add-two-integers) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2549-count-distinct-numbers-on-board) |
+| [3536-maximum-product-of-two-digits](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
