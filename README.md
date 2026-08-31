@@ -50,6 +50,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1539-kth-missing-positive-number) |
@@ -99,6 +100,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3536-maximum-product-of-two-digits) |
@@ -330,6 +332,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
