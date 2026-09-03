@@ -62,6 +62,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1929-concatenation-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2549-count-distinct-numbers-on-board) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [2235-add-two-integers](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2235-add-two-integers) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2549-count-distinct-numbers-on-board) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
