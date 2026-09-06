@@ -53,6 +53,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1528-shuffle-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -303,6 +304,7 @@
 | [0917-reverse-only-letters](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1189-maximum-number-of-balloons) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1528-shuffle-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1528-shuffle-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
