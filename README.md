@@ -61,6 +61,7 @@
 | [1748-sum-of-unique-elements](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1816-truncate-sentence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1929-concatenation-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2549-count-distinct-numbers-on-board) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3875-construct-uniform-parity-array-i) |
@@ -305,6 +306,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1189-maximum-number-of-balloons) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1528-shuffle-string) |
+| [1816-truncate-sentence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1816-truncate-sentence) |
 | [2351-first-letter-to-appear-twice](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
