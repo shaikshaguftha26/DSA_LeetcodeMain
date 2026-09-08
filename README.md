@@ -140,6 +140,7 @@
 | [2235-add-two-integers](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2235-add-two-integers) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2549-count-distinct-numbers-on-board) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
