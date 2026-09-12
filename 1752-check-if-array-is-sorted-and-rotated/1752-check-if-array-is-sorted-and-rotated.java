@@ -7,9 +7,10 @@ class Solution {
             if(nums[i]>nums[next]){
               count++;
             }
-            if(count>1) return false;
-        }
-        return true;
+            
+
+            }
+           return (count>1)? false: true;
     }
     
 }
