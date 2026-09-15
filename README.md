@@ -135,6 +135,7 @@
 | [0367-valid-perfect-square](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0415-add-strings) |
+| [0836-rectangle-overlap](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -353,4 +354,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
