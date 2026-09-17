@@ -64,6 +64,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2549-count-distinct-numbers-on-board) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -140,6 +141,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1688-count-of-matches-in-tournament) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2235-add-two-integers) |
 | [2549-count-distinct-numbers-on-board](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2549-count-distinct-numbers-on-board) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/3536-maximum-product-of-two-digits) |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -358,4 +361,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0836-rectangle-overlap) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
