@@ -205,6 +205,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -382,4 +383,5 @@
 | [0141-linked-list-cycle](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shaikshaguftha26/DSA_LeetcodeMain/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
